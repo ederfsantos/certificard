@@ -71,6 +71,9 @@ body {
   color: #1c1c1c;
   text-decoration: none;
 }
+.projetos-item p {
+  font-weight: bold;
+}
 
 .dark {
   background: linear-gradient(236.85deg, #375b86 27.26%, #6b87a9 96.03%);
